@@ -1,5 +1,5 @@
 ### 1. Initial Circuit Sketch
-- Create a detailed sketch of the circuit using the basic inverting and non inverting amplifiing circuits we learned in operational amplifier circuits.
+- Create a detailed sketch of the circuit using LTSpice with the basic inverting and non inverting amplifiing circuits we learned in operational amplifier circuits. Then simulated them using NI Multisim.
 - List all components and their connections as we have to select 3 ranges in the amplifier and the overload protection.
 
 ### 2. Circuit Simulation Using NI Multisim
