@@ -11,20 +11,20 @@
 
 - Simulation with Power Supply
   
-![Full Simulation](images/Simulation.jpg)
+![Full Simulation](../images/Simulation.jpg)
 
 - Simulation in 0-2.5V Range
-![Simulation Range 1](images/Simulation3.jpg)
+![Simulation Range 1](../images/Simulation3.jpg)
 
 - Simulation in 0-5V Range
-![Simulation Range 2](images/Simulation2.jpg)
+![Simulation Range 2](../images/Simulation2.jpg)
 
 - Simulation in 0-10V Range
-![Simulation Range 3](images/Simulation4.jpg)
+![Simulation Range 3](../images/Simulation4.jpg)
 
 ### 3. Prototyping on Breadboard
 - Assemble the circuit on a breadboard.
 - Debug and resolve any issues.
 - Calibrate the circuit for optimal performance.
 
-![Breadboard Implementation](images/Breadboard_Implementation.jpg)
+![Breadboard Implementation](../images/Breadboard_Implementation.jpg)
