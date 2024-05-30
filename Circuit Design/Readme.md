@@ -8,23 +8,22 @@
   - Voltmeter Simulation: Verify voltage measurement and calibration.
   - Power Supply Simulation: Verify stability and output characteristics.
 - Combine simulations into a single setup to ensure compatibility and functionality.
-
-- Simulation with Power Supply
   
-![Full Simulation](../images/Simulation.jpg)
+![Full Simulation](../Images/Simulation.jpg)
+Figure : Simulation with Power Supply
 
-- Simulation in 0-2.5V Range
-![Simulation Range 1](../images/Simulation3.jpg)
+![Simulation Range 1](../Images/Simulation3.jpg)
+Figure : Simulation in 0-2.5V Range
 
-- Simulation in 0-5V Range
-![Simulation Range 2](../images/Simulation2.jpg)
+![Simulation Range 2](../Images/Simulation2.jpg)
+Figure : Simulation in 0-5V Range
 
-- Simulation in 0-10V Range
-![Simulation Range 3](../images/Simulation4.jpg)
+![Simulation Range 3](../Images/Simulation4.jpg)
+Figure : Simulation in 0-10V Range
 
 ### 3. Prototyping on Breadboard
 - Assemble the circuit on a breadboard.
 - Debug and resolve any issues.
 - Calibrate the circuit for optimal performance.
 
-![Breadboard Implementation](../images/Breadboard_Implementation.jpg)
+![Breadboard Implementation](../Images/Breadboard_Implementation.jpg)
