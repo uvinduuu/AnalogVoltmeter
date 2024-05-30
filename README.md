@@ -107,6 +107,8 @@ The enclosure is designed using SolidWorks, ensuring user-friendly access and du
 Simulations were performed using Multisim software to validate the circuit design, followed by hardware implementation and testing to ensure accurate results.
 
 ![Simulation](Images/Simulation.jpg)
+![Testing](Images/Testing.jpg)
+![Debugging](Images/Debugging.jpg)
 
 ## Conclusion & Future Works
 
