@@ -27,6 +27,7 @@ The enclosure was created using SolidWorks, focusing on precise dimensions and e
 
 ![Enclosure Design](../Images/Enclosure1.jpg)
 ![Enclosure Design](../Images/Enclosure3.jpg)
+
 *Figures : Enclosure design rendered using SolidWorks.*
 
 ## Future Developments
