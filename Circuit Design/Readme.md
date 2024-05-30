@@ -10,16 +10,20 @@
 - Combine simulations into a single setup to ensure compatibility and functionality.
   
 ![Full Simulation](../Images/Simulation.jpg)
-Figure : Simulation with Power Supply
+
+*Figure : Simulation with Power Supply*
 
 ![Simulation Range 1](../Images/Simulation3.jpg)
-Figure : Simulation in 0-2.5V Range
+
+*Figure : Simulation in 0-2.5V Range*
 
 ![Simulation Range 2](../Images/Simulation2.jpg)
-Figure : Simulation in 0-5V Range
+
+*Figure : Simulation in 0-5V Range*
 
 ![Simulation Range 3](../Images/Simulation4.jpg)
-Figure : Simulation in 0-10V Range
+
+*Figure : Simulation in 0-10V Range*
 
 ### 3. Prototyping on Breadboard
 - Assemble the circuit on a breadboard.
