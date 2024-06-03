@@ -1,0 +1,11 @@
+Added Component: Designator=R?(RESAD2100W59L900D300)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR50J100R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR50J100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CFR50J100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CFR50J100R?qs=DDevMFOh4stqAwq6Act%2Fuw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-2
+Added Member To Class: ClassName=power_supply Member=Component R? CFR50J100R
+Added Room: Name=power_supply

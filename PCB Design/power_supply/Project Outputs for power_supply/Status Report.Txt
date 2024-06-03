@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [power_supply.PrjPcb]
+   Generated File[power_supply.GTP]
+   Generated File[power_supply.GTS]
+   Generated File[power_supply.GTL]
+   Generated File[power_supply.GM3]
+   Generated File[power_supply.GM5]
+   Generated File[power_supply.GM16]
+   Generated File[power_supply.GPT]
+   Generated File[power_supply.GD1]
+   Generated File[power_supply.GG1]
+   Generated File[power_supply.RUL]
+   Generated File[power_supply.EXTREP]
+   Generated File[power_supply.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 5:39:28 PM On 12/4/2023
